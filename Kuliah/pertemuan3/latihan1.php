@@ -1,3 +1,5 @@
+<!-- echo = berfungsi untuk menampilkan hasil teks ke layar -->
+
 <?php 
 echo "Hello World!";
 echo "<br>";
