@@ -1,6 +1,6 @@
 <?php
 $hardware = ["Motherboard", "Processor", "Hard Disk", "PC Coller", "VGA Card", "SSD"];
-$hardware = ["Motherboard", "Processor", "Hard Disk", "PC Coller", "VGA Card", "SSD", "Card Reader", "Modem"];
+array_push($hardware, "Card Reader", "Modem");
 ?>
 <!DOCTYPE html>
 <html lang="en">
